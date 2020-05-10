@@ -110,9 +110,18 @@ p.lead {
   color: #009999;
 }
 
-.checklistdiv {
+.checklistdiv2col {
   float: left;
   width: 50%;
+}
+
+.checklistdiv4col {
+  float: left;
+  width: 33%;
+}
+
+.checklistcontainer4cols{
+  margin-top: 3rem;
 }
 
 .fa-ul{
