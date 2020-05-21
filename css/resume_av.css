@@ -8,7 +8,6 @@ body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: #868e96;
-  background-color:#f5f3f0; 
 }
 
 @media (min-width: 992px) {
@@ -192,7 +191,6 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
-  background_color:#f5f3f0;
 }
 
 section.resume-section .resume-item .resume-date {
