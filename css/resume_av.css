@@ -228,3 +228,8 @@ a {
 a:hover, a:focus, a:active {
   color: #004d4d;
 }
+
+.lang-link{
+    font-size: 3.5rem;
+    font-color: #ffffff;
+}

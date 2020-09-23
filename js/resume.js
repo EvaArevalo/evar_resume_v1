@@ -25,4 +25,9 @@
     target: '#sideNav'
   });
 
+  $(function(){
+    $('.language-picker-select').language-picker-select();
+  });
+
 })(jQuery); // End of use strict
+
